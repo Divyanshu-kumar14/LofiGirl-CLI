@@ -9,7 +9,6 @@ A beautiful, minimal, and fast terminal user interface (TUI) to stream Lofi Girl
 ## 📸 Preview
 
 ![Lofi Girl CLI Demo](screenshot.png)
-*(Note: Please ensure the image provided is saved as `screenshot.png` in the root of the repository)*
 
 ## ✨ Features
 
